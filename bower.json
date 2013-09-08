@@ -1,0 +1,24 @@
+{
+  "name": "PWCARC",
+  "version": "0.0.1",
+  "authors": [
+    "Aaron Bieber <deftly@gmail.com>"
+  ],
+  "description": "Site for PWCARC",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "https://github.com/angular/bower-angular.git#~1.0.7",
+    "bootstrap": "~3.0.0",
+    "html5shiv": "~3.6.2",
+    "respond": "~1.2.0"
+  }
+}
