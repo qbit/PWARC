@@ -6,10 +6,38 @@
 	<meta name="author" content="Aaron Bieber <qbit@deftly.net>">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>PWCARC</title>
-
+	<script>
+		var index = {
+			club: {
+				club: 'texts/club.md',
+				calendar: 'texts/calendar.md',
+				news: 'texts/news.md',
+				exams: 'texts/exams.md',
+				organization: 'texts/organization.md',
+				ham_list: 'texts/ham_list.md',
+				catalog: 'texts/catalog.md'
+			},
+			community: 'texts/community.md',
+			operations: {
+				operations: 'texts/operations.md',
+				nets: 'text/nets.md',
+				ares: 'texts/ares.md',
+				repeaters: 'texts/repeaters.md',
+				scripts: 'texts/scripts.md'
+			},
+			technical: 'texts/technical.md'
+		};
+	</script>
+	<style>
+		.bs-sidenav {
+			padding-top:40px;
+		}
+		.bs-sidenav ul {
+			padding-left: 30px;
+		}
+	</style>
 	<link href="" rel="stylesheet">
 	<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-	<link href="bs.css" rel="stylesheet">
 
 </head>
 <body data-spy="scroll" data-target="#navbar">
@@ -17,7 +45,7 @@
 		<div class="row">
 			<div class="col-md-2">
 				<div class="bs-sidebar hidden-print affix-top" role="complementary">
-					<ul class="nav bs-sidenav">
+					<ul class="nav bs-sidenav" id="navbar">
 						<li>
 							<a href="#club">Club</a>
 							<ul class="nav">
@@ -41,50 +69,18 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-9" role="main">
-				<div id="club">
-					<h1>Club</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<div id="news">
-							<h1>Club News</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						</div>
-						<div id="exams">
-							<h1>Exams</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						</div>
-						<div id="organization">
-							<h1>Organization</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						</div>
-						<div id="hamlist">
-							<h1>Ham List</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						</div>
-						<div id="catalog">
-							<h1>Catalog</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						</div>
-				</div>
-				<div id="community">
-						<h1>Community</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				</div>
-				<div id="operations">
-						<h1>Operations</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				</div>
-				<div id="technical">
-						<h1>Technical</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				</div>
+			<div class="col-md-9" id="main" role="main">
 			</div>
-		</div>
-
 	</div>
 	<script src="bower_components/jquery/jquery.min.js"></script>
 	<script src="bower_components/angular/angular.min.js"></script>
 	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+	<script src="bower_components/marked/lib/marked.js"></script>
+	<script src="pwcarc.js"></script>
+	<script src="callsign.js"></script>
+	<script>
+		var callmgr = new Callsign();
+	</script>
 </body>
 </html>
 

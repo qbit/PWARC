@@ -19,6 +19,7 @@
     "angular": "https://github.com/angular/bower-angular.git#~1.0.7",
     "bootstrap": "~3.0.0",
     "html5shiv": "~3.6.2",
-    "respond": "~1.2.0"
+    "respond": "~1.2.0",
+    "marked": "~0.2.9"
   }
 }
