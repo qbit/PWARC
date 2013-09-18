@@ -6,7 +6,7 @@ Amateur Radio Emergency Service (ARES)
 
 | Section Emergency Coordinator | Regional Emergency Coordinator | D-16 Emergency Coordinator | PWARC Liason |
 | ----------------------------- | ------------------------------ | -------------------------- | ------------ |
-| Robert Wareham <span class="callsign">NØESQ</span> | Mike McQueen N0ZSN | Chas Carmichael W4CHZ | Neal Tew KD0MBL |
+| Robert Wareham <span class="callsign">N0ESQ</span> | Mike McQueen <span class="callsign">N0ZSN</span> | Chas Carmichael <span class="callsign">W4CHZ</span> | Neal Tew <span class="callsign">KD0MBL</span> |
 
 
 Amateur radio is not just a hobby, it is a service. The licenses we hold are a privilege granted to us by the FCC. These licenses carry some responsibilities, including the responsibility we have for providing emergency communications in the event of a disaster. All of the training we do, from participating in a formal traffic net to setting up a Field Day or special event station, makes us better communicators. Field events, local Ragchews, and monthly meetings improve the camaraderie we enjoy as Hams.

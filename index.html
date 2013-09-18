@@ -6,29 +6,16 @@
 	<meta name="author" content="Aaron Bieber <qbit@deftly.net>">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>PWCARC</title>
-	<script>
-		var index = {
-			club: {
-				club: 'texts/club.md',
-				calendar: 'texts/calendar.md',
-				news: 'texts/news.md',
-				exams: 'texts/exams.md',
-				organization: 'texts/organization.md',
-				ham_list: 'texts/ham_list.md',
-				catalog: 'texts/catalog.md'
-			},
-			community: 'texts/community.md',
-			operations: {
-				operations: 'texts/operations.md',
-				nets: 'text/nets.md',
-				ares: 'texts/ares.md',
-				repeaters: 'texts/repeaters.md',
-				scripts: 'texts/scripts.md'
-			},
-			technical: 'texts/technical.md'
-		};
-	</script>
+	<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 	<style>
+		.popover {
+			width: 100%;
+			max-width: 410px !important;
+		}
+		.callsign {
+			color: #428bca;
+			cursor: pointer;
+		}
 		.bs-sidenav {
 			padding-top:40px;
 		}
@@ -37,7 +24,6 @@
 		}
 	</style>
 	<link href="" rel="stylesheet">
-	<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
 </head>
 <body data-spy="scroll" data-target="#navbar">
@@ -73,7 +59,6 @@
 			</div>
 	</div>
 	<script src="bower_components/jquery/jquery.min.js"></script>
-	<script src="bower_components/angular/angular.min.js"></script>
 	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 	<script src="bower_components/marked/lib/marked.js"></script>
 	<script src="pwcarc.js"></script>
