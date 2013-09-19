@@ -29,7 +29,8 @@
 |447.400|-|67.0|Cripple Creek|<span class="callsign">WB0WDF</span>, Canon City|
 |447.750|-|103.5|Canon City|(IRLP Node 3081) <span class="callsign">WD0EKR</span>, Royal Gorge Ham Club|
 |448.000|-|100.0|Colorado Springs|Cheyenne Mountain Repeater Group|
-|448.325|-|100.0|Pueblo West|Node <span class="callsign">K0JSC</span>, Canon City - Linked to Pueblo and Canon City|
+|448.975|-|100.0|Pueblo West|Node <span class="callsign">K0JSC</span>, Canon City - Linked to Pueblo and Canon City|
+|447.975|-|100.0|Canon City|Node <span class="callsign">K0JSC</span>, Canon City - Linked to Pueblo and Canon City|
 |448.450|-|100.0|Colorado Springs|Can be linked to 146.970, CO Springs|
 |449.625|-|100.0|Deer Peak|Cheyenne Mountain Repeater Group|
 |449.850|-|67.0|Pueblo|Pueblo Ham Club|
