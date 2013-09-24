@@ -47,10 +47,16 @@
 							<a href="#community">Community</a>
 						</li>
 						<li>
+							<a href="#repeaters">Repeaters</a>
+						</li>
+						<li>
 							<a href="#operations">Operations</a>
 						</li>
 						<li>
 							<a href="#technical">Technical</a>
+						</li>
+						<li>
+							<a href="#faq">FAQ</a>
 						</li>
 					</ul>
 				</div>
@@ -65,6 +71,12 @@
 	<script src="callsign.js"></script>
 	<script>
 		var callmgr = new Callsign();
+		$('#navbar a').click(function() {
+			var a = $(this).prop('href').split('/');
+			a = a[a.length -1];
+			loadPage(a);
+		});
+		loadPage();
 	</script>
 </body>
 </html>
