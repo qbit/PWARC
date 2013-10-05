@@ -1,5 +1,5 @@
-PWARC Catalog  
-=============
+Catalog  
+=======
 
 This catalog/list is a courtesy provided by PWARC to its members. All items offered for sale are strictly property of the owners. Neither the Pueblo West Ham Club, Inc. nor this website derives any income from these listings.  
 
