@@ -11,6 +11,15 @@ function loadPage(page) {
 
 	$.get('texts/' + page, function(d) {
 		$('#main').html(marked(d));
+		$('#main a').each(function() {
+			if ($(this).prop('href').match(/#/)) {
+				$(this).click(function() {
+					var a = $(this).prop('href').split('/');
+					a = a[a.length -1];
+					loadPage(a);
+				});
+			}
+		});
 		$('table').addClass('table table-condensed table-hover table-striped table-bordered');
 		$('.callsign').click(function() { 
 			var self = this; 
