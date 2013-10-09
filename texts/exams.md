@@ -25,11 +25,11 @@ If you want to purchase a basic license study guide for any of the three classes
 
 Recently, our club has been recommending the free downloadable No-Nonsense license study guides by KB6NU. Our members have commented they have found them to be very useful and easier to use than the books listed above.
 
-For the Technician Class License tests after July 1, 2010:
+**For the Technician Class License tests after July 1, 2010**:
 
 [2010 Tech Study Guide](http://www.kb6nu.com/wp-content/uploads/2010/06/2010_Tech_Study_Guide.pdf)
 
-For General Class License tests after July 1, 2011:
+**For General Class License tests after July 1, 2011**
 
 [2011 No Nonsense General Class License Study Guide](http://kb6nu.com/wp-content/uploads/2007/09/2011-No-Nonsense-General-Class-License-Study-Guide.pdf)
 

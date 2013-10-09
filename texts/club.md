@@ -17,6 +17,8 @@ PWARC Nets are on Tuesdays 7:00 p.m. - 145.490 (-) PL 103.5
 
 9:00 a.m. First Saturday of the month
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/ms?msa=0&amp;msid=200628238361302084680.0004e842cda56b6291ee6&amp;ie=UTF8&amp;t=m&amp;ll=38.317359,-104.73689&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://www.google.com/maps/ms?msa=0&amp;msid=200628238361302084680.0004e842cda56b6291ee6&amp;ie=UTF8&amp;t=m&amp;ll=38.317359,-104.73689&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">Hen House Cafe</a> in a larger map</small>
+
 ### VE Sessions ###
 
 Second Saturday of the Month 12:00-2:00 p.m. at the Pueblo West Library. Walk-ins accepted until 1:00 p.m.
