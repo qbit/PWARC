@@ -39,14 +39,13 @@ Section 4: Election. Directors will be elected following the election of the Exe
 Section 5: Term of Office. Each Director shall hold office for a period of one year, or until resigned, re-elected or replaced by a successor.  Section 6: Vacancies. A vacancy on the Board shall be filled by appointment by the Board of a qualified individual for the unexpired term involved. 
 
 Section 7: Duties. 
+
 * Ensure that the Executive Committee works toward the club mission and goals set forth in the club’s Constitution. 
 * Work to enhance the public image of the Club.  
 * Oversee the Club financial structure and activity, including income, expenses, insurance coverage, audits, bank relations, fund-raising, and other financial procedures. 
 * Recommend the yearly dues for approval by the club membership. 
 * Act as the Scholarship Committee and select Pueblo West High School 
-* Call Special Elections to fill vacant seats in the Executive Committee, unless the graduates for club scholarships. 
-
-vacancy is the Presidency whereby the Vice-President will fill the position. 
+* Call Special Elections to fill vacant seats in the Executive Committee, unless the vacancy is the Presidency whereby the Vice-President will fill the position. 
 
 * In October, the Board of Directors shall be appoint a Nominations Committee, including the current president of the Executive Committee. By the November general meeting the committee will have chosen a slate of nominees to the Executive Committee, at least one for each office, and for the Board of Directors. At the November meeting nominations will be opened to the floor. After the close of the nominations, the Nominating Committee will add its selections to the slate.  The entire list of candidates will be published in the club’s meeting minutes and on the club’s website prior to the December election meeting.  
 
