@@ -1,10 +1,10 @@
 {
-  "name": "PWCARC",
+  "name": "PWARC",
   "version": "0.0.1",
   "authors": [
     "Aaron Bieber <deftly@gmail.com>"
   ],
-  "description": "Site for PWCARC",
+  "description": "Site for PWARC",
   "main": "index.html",
   "license": "MIT",
   "private": true,
