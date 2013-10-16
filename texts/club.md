@@ -9,21 +9,50 @@ Unless otherwise noted, PWARC meetings are held at 2:00 p.m. on the second Satur
 
 [Club Constitution](#constitution)
 
-### Nets ###
 
-PWARC Nets are on Tuesdays 7:00 p.m. - 145.490 (-) PL 103.5
+### Events ###
 
-### Ragchew ###
+<div class="bs-callout bs-callout-info">
+	<h3>Tuesday Evening Net</h3>
+	<p>PWARC VHF Net - 7:00 p.m. - 146.445 FM Simplex</p>
+	<i>Visitors are welcome!</i>
+</div>
 
-9:00 a.m. First Saturday of the month
+<div class="bs-callout bs-callout-info">
+	<h3>Ham Radio Ragchew</h3>
+	<i>Saturday, Dec. 4, 9:00 a.m.</i>
+	<p>Stop by for coffee or breakfast and a ragchew!
+	<address>
+		Hen House Cafe
+		53 Palmer Lake Dr., Pueblo West
+	</address>
+	<i>(cross street, S. Joe Martinez Blvd.)</i>
+	<!--<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/ms?msa=0&amp;msid=200628238361302084680.0004e842cda56b6291ee6&amp;ie=UTF8&amp;t=m&amp;ll=38.317359,-104.73689&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://www.google.com/maps/ms?msa=0&amp;msid=200628238361302084680.0004e842cda56b6291ee6&amp;ie=UTF8&amp;t=m&amp;ll=38.317359,-104.73689&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">Hen House Cafe</a> in a larger map</small>-->
+	</p>
+</div>
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/ms?msa=0&amp;msid=200628238361302084680.0004e842cda56b6291ee6&amp;ie=UTF8&amp;t=m&amp;ll=38.317359,-104.73689&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://www.google.com/maps/ms?msa=0&amp;msid=200628238361302084680.0004e842cda56b6291ee6&amp;ie=UTF8&amp;t=m&amp;ll=38.317359,-104.73689&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">Hen House Cafe</a> in a larger map</small>
+<div class="bs-callout bs-callout-info">
+	<h3>PWARC Meeting</h2>
+	<p>
+		<i>Saturday, Dec. 18, 2:00 p.m.</i><br />
+		<address>
+		Pueblo West Library
+		298 S. Joe Martinez Blvd.
+		</address>
+
+		<b><i>Attend our meetings and be amazed at what you discover!</i></b>
+	</p>
+</div>
+
+<div class="bs-callout bs-callout-info">
+	<h3>Fox Hunt</h3>
+	<p>Pueblo West Amateur Radio Club will present a Fox Hunt (hidden transmitter hunt) when the appropriate equipment is available. Antennas have already been built. No ham radio license is required to participate, so anyone who is interested will be welcome to team up with our members and help to find our wiley "Fox."</p>
+	<i>Watch for further details!</i>
+</div>
 
 ### VE Sessions ###
 
 Second Saturday of the Month 12:00-2:00 p.m. at the Pueblo West Library. Walk-ins accepted until 1:00 p.m.
-
- 
 
 ### Membership Dues ###
 
@@ -43,17 +72,15 @@ Checks may be written to Pueblo West Amateur Radio Club and sent to:
     
 Applications are also accepted at our Ragchews and meetings.
 
-(Print application or copy form information to an e-mail, fill in your infomation and send to address below.)
+*For more information about the club:*
 
-For more information about the club:
-
-Club E-mail:
+### Club E-mail: ###
 na0pw(at)qsl.net (Replace (at) with @)
 
   
-Pueblo West Amateur Radio Club is an official Affiliated Club of the American Radio Relay League (ARRL).
+### ARRL ###
 
-   
+Pueblo West Amateur Radio Club is an official Affiliated Club of the American Radio Relay League (ARRL).
 
 YES!
 
