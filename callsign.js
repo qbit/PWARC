@@ -41,7 +41,7 @@ Callsign.prototype.pretty = function(d) {
 		if ( d.hasOwnProperty(i) ) {
 			if ( this.map[i] ) {
 				if ( i === 'licDetailURL' ) {
-					o.push( '<b>' + this.map[i] + '</b>: ' + '<a href="' + d[i] + '">link</a>' + '<br />' );
+					o.push( '<b>' + this.map[i] + '</b>: ' + '<a target="_blank" href="' + d[i] + '">link</a>' + '<br />' );
 				} else {
 					o.push( '<b>' + this.map[i] + '</b>: ' + d[i] + '<br />' );
 				}
