@@ -62,6 +62,7 @@ Ham List
 |<span class="callsign">KD0OBI</span>|Adson, James B|03/24/2021|Technician|81007|
 |<span class="callsign">KD0OXO</span>|Gonzalez, Antonio G|06/16/2021|Technician|81007|
 |<span class="callsign">KD0OZY</span>|Clendenen, James C|06/23/2021|Technician|81007|
+|<span class="callsign">KD0RRH</span>|Milne, Delmar A|04/20/2022|General|81008|
 |<span class="callsign">KD0WEA</span>|Dunn Jr, Frank E|07/17/2023|General|81007|
 |<span class="callsign">KD0WKW</span>|Bieber, Aaron|08/15/2023|Technician|81004|
 |<span class="callsign">KD5EXK</span>|Price, Christopher R|09/12/2019|Technician|81007|
