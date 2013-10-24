@@ -9,7 +9,7 @@ The success of any organization depends on its members' participation and volunt
 |-----|
 |Jane Ewing, <span class="callsign">KA0USA</span>|
 |David Yeater, <span class="callsign">KY6YYY</span>|
-|Neal Tew, <span class="callsign">KD0MBL</span>|
+|Bob Akins, <span class="callsign">WD0FBW</span>|
 
 ### 2013 Executive Committee ###
 
@@ -17,7 +17,8 @@ The success of any organization depends on its members' participation and volunt
 |-----|------|
 |President|Paul Sipes, <span class="callsign">KB0JIT</span>|
 |Vice-President|Jim McConnell, <span class="callsign">NE0DA</span>|
-|Secretary|Roger Stasiak, <span class="callsign">W0ROG</span>|
+|Secretary|Lori Miner, <span class="callsign">AH6OS</span>|
+|License Trustee|Paul Sipes, <span class="callsign">KB0JIT</span>|
 |Treasurer|Dan Broadbooks, <span class="callsign">NG0T</span>|
 
 ### Current 2013 Committees ###
