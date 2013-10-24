@@ -10,6 +10,7 @@ The success of any organization depends on its members' participation and volunt
 |Jane Ewing, <span class="callsign">KA0USA</span>|
 |David Yeater, <span class="callsign">KY6YYY</span>|
 |Bob Akins, <span class="callsign">WD0FBW</span>|
+|Andrew Lloyd, <span class="callsign">ND0P</span>|
 
 ### 2013 Executive Committee ###
 
