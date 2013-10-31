@@ -6,6 +6,10 @@ This catalog/list is a courtesy provided by PWARC to its members. All items offe
 The Pueblo West Amateur Radio Club does not guarantee any of the listed items, their 
 condition described, nor that the prices are the real value of the items. All buying and selling is strictly between the buyer and seller. 
 
+### Current Wanted Items ###
+|Item|Contact|
+|Tube tester (good) that measures Gm (mutual conductance). Or, would bring bag of tubes to you.|Gary Maier, <span class="callsign"></span>, (719) 320-9675|
+
 ### Current Items ###
 |Item|Price|Contact|Exp. Date|
 |----|----:|-------|---------|
