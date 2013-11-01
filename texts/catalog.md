@@ -8,7 +8,8 @@ condition described, nor that the prices are the real value of the items. All bu
 
 ### Current Wanted Items ###
 |Item|Contact|
-|Tube tester (good) that measures Gm (mutual conductance). Or, would bring bag of tubes to you.|Gary Maier, <span class="callsign"></span>, (719) 320-9675|
+|----|-------|
+|Tube tester (good) that measures Gm (mutual conductance). Or, would bring bag of tubes to you.|Gary Maier, <span class="callsign"></span>, (719) 320-9575|
 
 ### Current Items ###
 |Item|Price|Contact|Exp. Date|
