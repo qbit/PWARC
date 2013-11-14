@@ -20,7 +20,7 @@ Unless otherwise noted, PWARC meetings are held at 2:00 p.m. on the second Satur
 
 <div class="bs-callout bs-callout-info">
 	<h3>Ham Radio Ragchew</h3>
-	<i>Saturday, Dec. 4, 9:00 a.m.</i>
+	<i>First Saturday of the month, 9:00 a.m.</i>
 	<p>Stop by for coffee or breakfast and a ragchew!
 	<address>
 		Hen House Cafe
@@ -34,7 +34,7 @@ Unless otherwise noted, PWARC meetings are held at 2:00 p.m. on the second Satur
 <div class="bs-callout bs-callout-info">
 	<h3>PWARC Meeting</h2>
 	<p>
-		<i>Saturday, Dec. 18, 2:00 p.m.</i><br />
+		<i>Second Saturday of the month, 2:00 p.m.</i><br />
 		<address>
 		Pueblo West Library
 		298 S. Joe Martinez Blvd.
