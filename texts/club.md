@@ -13,6 +13,15 @@ Unless otherwise noted, PWARC meetings are held at 2:00 p.m. on the second Satur
 ### Events ###
 
 <div class="bs-callout bs-callout-info">
+	<h3>Meeting</h3>
+	<p>Christmas Meeting - Dec. 14th</p>
+	<address>
+	Pueblo West Library
+	298 S. Joe Martinez Blvd.
+	</address>
+</div>
+
+<div class="bs-callout bs-callout-info">
 	<h3>Tuesday Evening Net</h3>
 	<p>PWARC VHF Net - 7:00 p.m. - 146.445 FM Simplex</p>
 	<i>Visitors are welcome!</i>
