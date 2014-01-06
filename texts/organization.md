@@ -3,20 +3,20 @@ Club Organization
 
 The success of any organization depends on its members' participation and volunteerism. We are very fortunate to have an active core membership in the Pueblo West Amateur Radio Club.
 
-### 2013 Board of Directors ###
+### 2014 Board of Directors ###
 
 |Person|
 |-----|
 |Jane Ewing, <span class="callsign">KA0USA</span>|
-|Bob Akins, <span class="callsign">WD0FBW</span>|
-|Andrew Lloyd, <span class="callsign">ND0P</span>|
+|Roger Stasiak, <span class="callsign">W0ROG</span>|
+|Dan Wantuck, <span class="callsign">WO0JW</span>|
 
-### 2013 Executive Committee ###
+### 2014 Executive Committee ###
 
 |Title|Person|
 |-----|------|
 |President|Paul Sipes, <span class="callsign">KB0JIT</span>|
-|Vice-President|Jim McConnell, <span class="callsign">NE0DA</span>|
+|Vice-President|Frank Dunn, <span class="callsign">KD0WEA</span>|
 |Secretary|Lori Miner, <span class="callsign">AH6OS</span>|
 |License Trustee|Paul Sipes, <span class="callsign">KB0JIT</span>|
 |Treasurer|Dan Broadbooks, <span class="callsign">NG0T</span>|
