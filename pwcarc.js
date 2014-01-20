@@ -1,3 +1,8 @@
+function loadTestPage(page) {
+	page = 'test_' + page;
+	loadPage(pate);
+}
+
 function loadPage(page) {
 	if (window.location.hash.match(/#/) && !page) {
 		page = window.location.hash.replace('#','') + '.md';
