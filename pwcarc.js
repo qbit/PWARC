@@ -1,6 +1,6 @@
 function loadTestPage(page) {
 	page = 'test_' + page;
-	loadPage(pate);
+	loadPage(page);
 }
 
 function loadPage(page) {

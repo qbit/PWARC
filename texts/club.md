@@ -28,6 +28,11 @@ Unless otherwise noted, PWARC meetings are held at 2:00 p.m. on the second Satur
 	</address>
 	<i>(cross street, S. Joe Martinez Blvd.)</i>
 	<!--<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/ms?msa=0&amp;msid=200628238361302084680.0004e842cda56b6291ee6&amp;ie=UTF8&amp;t=m&amp;ll=38.317359,-104.73689&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://www.google.com/maps/ms?msa=0&amp;msid=200628238361302084680.0004e842cda56b6291ee6&amp;ie=UTF8&amp;t=m&amp;ll=38.317359,-104.73689&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">Hen House Cafe</a> in a larger map</small>-->
+	<div class="gallery">
+		<a href="images/IMG_20131102_085906.jpg"><img src="images/mIMG_20131102_085906.jpg"></a>
+		<a href="images/IMG_20131102_085928.jpg"><img src="images/mIMG_20131102_085928.jpg"></a>
+		<a href="images/IMG_20131102_085931.jpg"><img src="images/mIMG_20131102_085931.jpg"></a>
+	</div>
 	</p>
 </div>
 
