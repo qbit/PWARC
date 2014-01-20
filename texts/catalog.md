@@ -9,8 +9,8 @@ condition described, nor that the prices are the real value of the items. All bu
 ### Current Items ###
 |Item|Price|Contact|Exp. Date|
 |----|----:|-------|---------|
-|2 EACH 6146B|2 x $25.00|Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 | 10/31/2013 |
-|MFJ Diff T Tuner #986 |$150.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2013|
-|MFJ SWR/Watt Meter #884 |$65.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2013|
-|Bencher Paddle |$70.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2013|
-|Amitron AL811 600 Watt Amp| $350.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2013 |
+|2 EACH 6146B|2 x $25.00|Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 | 10/31/2014 |
+|MFJ Diff T Tuner #986 |$150.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2014|
+|MFJ SWR/Watt Meter #884 |$65.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2014|
+|Bencher Paddle |$70.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2014|
+|Amitron AL811 600 Watt Amp| $350.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2014 |
