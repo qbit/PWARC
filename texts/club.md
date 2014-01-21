@@ -58,7 +58,7 @@ Unless otherwise noted, PWARC meetings are held at 2:00 p.m. on the 3rd Saturday
 
 ### VE Sessions ###
 
-Second Saturday of the Month 12:00-2:00 p.m. at the Pueblo West Library. Walk-ins accepted until 1:00 p.m.
+Thrid Saturday of the Month 12:00-2:00 p.m. at the Pueblo West Library. Walk-ins accepted until 1:00 p.m.
 
 ### Membership Dues ###
 
