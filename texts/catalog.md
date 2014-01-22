@@ -7,6 +7,8 @@ The Pueblo West Amateur Radio Club does not guarantee any of the listed items, t
 condition described, nor that the prices are the real value of the items. All buying and selling is strictly between the buyer and seller.
 
 ### Wanted Items ###
+|Item|Price|Contact|Exp. Date|
+|----|----:|-------|---------|
 |2m/70cm vert|$$$|Gary, <span class="callsign"></span>, (719) 320-9575 | 10/31/2014 |
 |M-HD roof tripod|$$$|Gary, <span class="callsign"></span>, (719) 320-9575 | 10/31/2014 |
 |20' mast|$$$|Gary, <span class="callsign"></span>, (719) 320-9575 | 10/31/2014 |
