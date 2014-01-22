@@ -6,6 +6,13 @@ This catalog/list is a courtesy provided by PWARC to its members. All items offe
 The Pueblo West Amateur Radio Club does not guarantee any of the listed items, their
 condition described, nor that the prices are the real value of the items. All buying and selling is strictly between the buyer and seller.
 
+### Wanted Items ###
+|2m/70cm vert|$$$|Gary, <span class="callsign"></span>, (719) 320-9575 | 10/31/2014 |
+|M-HD roof tripod|$$$|Gary, <span class="callsign"></span>, (719) 320-9575 | 10/31/2014 |
+|20' mast|$$$|Gary, <span class="callsign"></span>, (719) 320-9575 | 10/31/2014 |
+|50' or more of 9913|$$$|Gary, <span class="callsign"></span>, (719) 320-9575 | 10/31/2014 |
+|N-connectors|$$$|Gary, <span class="callsign"></span>, (719) 320-9575 | 10/31/2014 |
+
 ### Current Items ###
 |Item|Price|Contact|Exp. Date|
 |----|----:|-------|---------|
