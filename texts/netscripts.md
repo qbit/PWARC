@@ -45,7 +45,7 @@ I thank everyone for participating in tonight's net, and I hope you will all che
 
 The Pueblo West Amateur Radio Club meets at 2 p.m. on the second Saturday of each month at the Pueblo West Library, 298 South Joe Martinez Blvd. We also hold an informal Ragchew on the first Saturday of each month at the Hen House Cafe for a Dutch Treat coffee or breakfast. All amateur radio operators are invited to attend.
 
-The club also holds periodic VE Sessions for anyone wishing to test for an entry level license or license upgrade. These exam sessions are announced on this net and on the calendar at our website, www.qsl.net/na0pw.
+The club also holds periodic VE Sessions for anyone wishing to test for an entry level license or license upgrade. These exam sessions are announced on this net and on the calendar at our website, www.na0pw.net, www.pwarc.com or www.qsl.net/na0pw.
 
 The second session of this net will follow at 7:30 p.m. on 146.445 FM simplex.
 
