@@ -35,6 +35,7 @@ Ham List
 |<span class="callsign">KD0TQO</span>|Frank (Torry) T.|Krutzke|
 |<span class="callsign">ND0P</span>|Andy|Lloyd|
 |<span class="callsign">N0OBV</span>|Jim|Lutenberg|
+|<span class="callsign">AD0HC</span>|Gary|Maier|
 |<span class="callsign">NE0DA</span>|James R.|McConnell|
 |<span class="callsign">WA6HSI</span>|Mason|Meek|
 |<span class="callsign">KD0RRH</span>|Delmar [Del] A.|Milne|
@@ -49,4 +50,3 @@ Ham List
 |<span class="callsign">KC0YMJ</span>|Chuck|Wingfield|
 |<span class="callsign">KY6YYY</span>|David|Yeater|
 |<span class="callsign">KB0DHN</span>|Roger E.|Yust|
-||Gary|Maier|
