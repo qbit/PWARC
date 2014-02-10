@@ -9,12 +9,17 @@ Unless otherwise noted, PWARC meetings are held at 2:00 p.m. on the 3rd Saturday
 
 [Club Constitution](#constitution)
 
+### Bill's Memorial ###
+<div class="gallery">
+	<a href="images/DSC03546_edited-1.JPG"><img src="images/mDSC03546_edited-1.JPG"></a>
+</div>
+
 ### 2013 Field Day ###
 
 <div class="gallery">
-	<a href="images/DSC03546_edited-1.JPG"><img src="images/mDSC03546_edited-1.JPG"></a>
 	<a href="images/DSC03436_edited-1-1.JPG"><img src="images/mDSC03436_edited-1-1.JPG"></a>
 	<a href="images/DSC03433_edited-1.JPG"><img src="images/mDSC03433_edited-1.JPG"></a>
+	<a href="images/Top-1_edited-1.jpg"><img src="images/mTop-1_edited-1.jpg"></a>
 	<a href="images/DSC03429.JPG"><img src="images/mDSC03429.JPG"></a>
 	<a href="images/DSC03425_edited-1-1.JPG"><img src="images/mDSC03425_edited-1-1.JPG"></a>
 </div>
