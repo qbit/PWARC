@@ -4,9 +4,9 @@ Amateur Radio Emergency Service (ARES)
 *The Amateur Radio Emergency Service (ARES) consists of licensed amateurs who have voluntarily registered their qualifications and equipment for communications duty in the public service when disaster strikes. Every licensed amateur, regardless of membership in ARRL or any other local or national organization, is eligible for membership in the ARES. The only qualification, other than possession of an Amateur Radio license, is a sincere desire to serve. Because ARES is an amateur service, only amateurs are eligible for membership. The possession of emergency-powered equipment is desirable, but is not a requirement for membership.* From the Public Service Communications Manual
 
 
-| Section Emergency Coordinator | Regional Emergency Coordinator | D-16 Emergency Coordinator | PWARC Liason |
+| Section Emergency Coordinator | Regional Emergency Coordinator | R5D2 Emergency Coordinator | PWARC Liason |
 | ----------------------------- | ------------------------------ | -------------------------- | ------------ |
-| Robert Wareham <span class="callsign">N0ESQ</span> | Mike McQueen <span class="callsign">N0ZSN</span> | Chas Carmichael <span class="callsign">W4CHZ</span> | Neal Tew <span class="callsign">KD0MBL</span> |
+| Robert Wareham <span class="callsign">N0ESQ</span> | Mike McQueen <span class="callsign">N0ZSN</span> | Neal Tew <span class="callsign">KD0MBL</span> | Neal Tew <span class="callsign">KD0MBL</span> |
 
 
 Amateur radio is not just a hobby, it is a service. The licenses we hold are a privilege granted to us by the FCC. These licenses carry some responsibilities, including the responsibility we have for providing emergency communications in the event of a disaster. All of the training we do, from participating in a formal traffic net to setting up a Field Day or special event station, makes us better communicators. Field events, local Ragchews, and monthly meetings improve the camaraderie we enjoy as Hams.
