@@ -18,7 +18,7 @@ condition described, nor that the prices are the real value of the items. All bu
 ### Current Items ###
 |Item|Price|Contact|Exp. Date|
 |----|----:|-------|---------|
-|[Dell Inspiron 1318](http://www.dell.com/support/my-support/us/en/19/product-support/servicetag/71GW5G1/config) Laptop (includes charger, case, Window Vista Home Prem., Microsoft Office, Photoshop)|$350 OBO|Roger, <span class="callsign">W0ROG</span> (719) 337-0747| 10/31/2014|
+|[Dell Inspiron 1318](http://www.dell.com/support/my-support/us/en/19/product-support/servicetag/71GW5G1/config) Laptop (includes charger, case, Window Vista Home Prem., Microsoft Office, Photoshop)|$350 (obo)|Roger, <span class="callsign">W0ROG</span> (719) 337-0747| 10/31/2014|
 |Brother HL-5040 black and white Laser printer|$75 (obo)|Roger, <span class="callsign">W0ROG</span>, (719) 377-0747| 10/31/2014 |
 |2 EACH 6146B|2 x $25.00|Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 | 10/31/2014 |
 |MFJ Diff T Tuner #986 |$150.00 |Stan, <span class="callsign">KC0OYO</span>, Pueblo West (719) 252-7246 |10/31/2014|
