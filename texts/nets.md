@@ -55,3 +55,8 @@ Daily Nets
 * 12:00 Noon - High Noon Net - 7.240 (LSB)
 * 12:00 Noon - Pikes Peak ARES Noon Advisory Severe Weather Net - 146.970 [minus offset, PL 100] - Daily May 15 – Aug 31
 * 7:30 p.m. - Central Colorado Traffic Net - 145.130 [minus offset, PL 123.0], Colorado Connection
+
+[Colorado Amateur Satellite Net](http://www.amsatnet.info/)
+=================================
+
+* Thursday at 7 o-clock PM on the 146.940 repeater in Denver with a 103.5 PL tone, and on the 449.825 103.5 PL in Broomfield
