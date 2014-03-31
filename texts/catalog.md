@@ -9,7 +9,8 @@ condition described, nor that the prices are the real value of the items. All bu
 ### Wanted Items ###
 |Item|Price|Contact|Exp. Date|
 |----|----:|-------|---------|
-|2m/70cm vert|$$$|Gary, <span class="callsign">AD0HC</span>, (719) 320-9575 | 10/31/2014 |
+|Fiberglass mast, 5' or more|$$$|Gary, <span class="callsign">AD0HC</span>, (719) 320-9575 | 10/31/2014 |
+|RGB or similar, 50' or more|$$$|Gary, <span class="callsign">AD0HC</span>, (719) 320-9575 | 10/31/2014 |
 |M-HD roof tripod|$$$|Gary, <span class="callsign">AD0HC</span>, (719) 320-9575 | 10/31/2014 |
 |20' mast|$$$|Gary, <span class="callsign">AD0HC</span>, (719) 320-9575 | 10/31/2014 |
 |50' or more of 9913 or Lm400|$$$|Gary, <span class="callsign">AD0HC</span>, (719) 320-9575 | 10/31/2014 |
