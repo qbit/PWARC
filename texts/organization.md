@@ -15,28 +15,29 @@ The success of any organization depends on its members' participation and volunt
 
 |Title|Person|
 |-----|------|
-|President|Paul Sipes, <span class="callsign">KB0JIT</span>|
-|Vice-President|Frank Dunn, <span class="callsign">KD0WEA</span>|
+|President|Frank Dunn, <span class="callsign">KD0WEA</span>|
+|Vice-President|Gary Maier, <span class="callsign">AD0HC</span>|
 |Secretary|Lori Miner, <span class="callsign">AH6OS</span>|
-|License Trustee|Paul Sipes, <span class="callsign">KB0JIT</span>|
 |Treasurer|Dan Broadbooks, <span class="callsign">NG0T</span>|
 
-### Current 2013 Committees ###
+### 2014 Standing Committees ###
 
-|Title|Person|
-|-----|------|
-|Ways & Means|Jane Ewing, <span class="callsign">KA0USA</span>|
+|Title|Person|Callsign|
+|-----|------|--------|
+|Ways & Means|Jane Ewing|KA0USA|
+|Programs|Gary Maier|AD0HC|
+|Net Control|Dan Wantuck|W0OJW|
+|Scholarship|Board of Directors||
+|Webmaster|Aaron Biber|KD0WKW|
+|Equipment|Neal Tew|KD0MBL|
 
-2013 Audit Committee
-===============
+### Temporary Committees ###
+|Date|Event|Person|Callsign|
+|---|---|---|---|
+|Feb.|June Field Day|Jim McConnell,|NE0DA|
+|Mar.|July 4 5 K Run/Walk|Frank Dunn,|KD0WEA|
 
-### PWARC. Board Members ###
-
-|Person|
-|------|
-|Jane Ewing, <span class="callsign">KA0USA</span>|
-|David Yeater, <span class="callsign">KY6YYY</span>|
-|Neal Tew, <span class="callsign">KD0MBL</span>|
+Board Appointed Nominating ***Oct. for Dec.***
 
 Other Volunteers
 ===============
@@ -47,7 +48,7 @@ Other Volunteers
 |Electronic Log Book and QSL Manager|Ted Hawken, <span class="callsign">K0LDS</span>|
 |Flyers|David Yeater, <span class="callsign">KY6YYY</span>|
 |Fox Hunting|Neal Tew, <span class="callsign">KC0MBL</span>|
-|License Trustee|Jane Ewing, <span class="callsign">KA0USA</span>|
+|License Trustee|Paul Sipes, <span class="callsign">KB0JIT</span>|
 |Net Manager|Daniel Wantuck, <span class="callsign">N8OJW</span>|
 |Photographer|David Yeater, <span class="callsign">KY6YYY</span>|
 |Website Manager|Aaron Bieber, <span class="callsign">KD0WKW</span>|
